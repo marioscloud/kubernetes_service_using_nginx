@@ -1,4 +1,4 @@
-This repository contains the resources for a hands-on lab from the course Introduction to Containers with Docker, Kubernetes & OpenShift, part of the IBM DevOps and Software Engineering Professional Certificate. The lab demonstrates how to create and deploy a Kubernetes Service using the nginx image. 
+This repository contains the resources for a hands-on lab from the course Introduction to Containers with Docker, Kubernetes & OpenShift, part of the ***IBM DevOps and Software Engineering Professional Certificate.*** The lab demonstrates how to create and deploy a Kubernetes Service using the nginx image. 
 
 ***Overview***
 
